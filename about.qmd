@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Kushagra Singh
+## About Me
+
+My name is **Kushagra Singh**, I go to *Independence High School*
+
+[Kane’s Free Data Science Bootcamp](https://bootcamp.davidkane.info)

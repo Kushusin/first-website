@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Kushagra Singh"
+    "text": "My name is Kushagra Singh, I go to Independence High School\nKane’s Free Data Science Bootcamp"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My First Website",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
     "section": "",
-    "text": "#| echo: false\n\n#| label: setup\nlibrary(tidyverse)"
+    "text": "My name is Kushagra Singh, I go to Independence High School\nKane’s Free Data Science Bootcamp"
   }
 ]
